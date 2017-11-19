@@ -43,7 +43,7 @@ gem 'jquery-rails'
   gem 'devise', '4.3.0'
 
 # Use Stripe for payment processing
-  gem 'stripe', '1.48.0'
+  gem 'stripe'
 
 # Use Figaro for ENV variables
   gem 'figaro', '1.1.1'
